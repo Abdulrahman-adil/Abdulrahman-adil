@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg?ezimgfmt=ng%3Awebp%2Fngcb24)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdulrahman</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Abdulrahman -->
 
@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at abdo48439@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://quilled-end-c2b.notion.site/my-resume-f01b846d66644743838905eb54a86c91) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
